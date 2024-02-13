@@ -166,3 +166,16 @@ sudo ufw insert 1 deny from 64.62.197.87 to any
 sudo ufw insert 1 deny from 198.235.24.77 to any
 sudo ufw insert 1 deny from 31.220.3.140 to any
 sudo ufw insert 1 deny from 162.216.149.35 to any
+sudo ufw insert 1 deny from 35.190.199.12 to any
+sudo ufw insert 1 deny from 43.156.49.134 to any
+sudo ufw insert 1 deny from 167.71.102.181 to any
+sudo ufw insert 1 deny from 198.235.24.175 to any
+sudo ufw insert 1 deny from 64.62.197.229 to any
+sudo ufw insert 1 deny from 192.241.220.39 to any
+sudo ufw insert 1 deny from 209.97.180.172 to any
+sudo ufw insert 1 deny from 162.216.149.94 to any
+sudo ufw insert 1 deny from 51.158.241.69 to any
+sudo ufw insert 1 deny from 205.210.31.130 to any
+sudo ufw insert 1 deny from 52.221.233.79 to any
+sudo ufw insert 1 deny from 85.90.246.159 to any
+sudo ufw insert 1 deny from 198.235.24.171 to any
